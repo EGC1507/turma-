@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #FF862A;
-    --alto-contraste-fundo: #000000;
-    --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #ffd700;
+    --laranja-claro: #ff0000;
+    --alto-contraste-fundo: #ff0000;
+    --alto-contraste-texto: #ff0000;
+    --alto-contraste-link: #ff0000;
 }
 
 body {
@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color: #000000;
 }
 
 
@@ -24,8 +24,8 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
-    font-weight: 600;
+    color: #ffffff;
+    font-weight: 60000;
 }
 
 .inicio-fundo {
@@ -74,13 +74,13 @@ section {
 }
 
 
-#tropicalia {
+#IRONBARG {
     position: relative;
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
+    background: url('https://images.vexels.com/media/users/3/279442/isolated/preview/b92ec7951702cd69fd203f9e9ebbaa06-silhueta-de-homem-fisiculturista.png') top right no-repeat,
+        url('https://png.pngtree.com/png-vector/20221217/ourmid/pngtree-gym-vector-design-png-image_6527998.png') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -103,7 +103,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #ffffff;
 
 }
 
@@ -121,24 +121,24 @@ h2 {
 }
 
 .formulario {
-    background-color: #ffffff;
+    background-color: #000000;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
     /* Borda arredondada para o formulário */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgb(233, 224, 224);
     /* Sombra suave para destacar o formulário */
     font-weight: bold;
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: #df0000;
     border: none;
     font-weight: bold;
 }
 
 .form-control {
-    background-color: #F1EDEF;
+    background-color: #ffffff;
 }
 .menu-acessibilidade{
     position: fixed;
@@ -188,7 +188,7 @@ h2 {
     color: var(--alto-contraste-fundo)
 }
 
-.alto-contraste #tropicalia {
+.alto-contraste #IRONBERG {
     background: none;
 }
 
