@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', function(){
  
  })
  
- ScrollReveal().reveal('#inicio', { delay: 500 });
- ScrollReveal().reveal('#IRONBERG', { delay: 500 });
- ScrollReveal().reveal('#galeria', { delay: 500 });
- ScrollReveal().reveal('#contato', { delay: 500 });
+ ScrollReveal().reveal('#inicio', { delay: 450 });
+ ScrollReveal().reveal('#IRONBERG', { delay: 455 });
+ ScrollReveal().reveal('#galeria', { delay: 460 });
+ ScrollReveal().reveal('#contato', { delay: 465 });
